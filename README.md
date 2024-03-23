@@ -1,4 +1,4 @@
-
+![zdjecie](https://github.com/julkiea/julkiea/blob/26764291470b883525385e31aaa8219907212f79/ertyui.png)
 <h1 align="center">Hi, I'm Liliana! 👋</h1>
 
 ## About me:
