@@ -4,7 +4,7 @@
 ## About me:
 - 🎓 I'm studying bioinformatics at Student of Bioinformatics at the Wrocław University of Environmental and Life Sciences
 - 🌱 I'm always learning, currently focusing on developing my programming skills
-- 💻 I'm currently learning Python and R
+- 💻 I'm currently learning Python, Django
 - 📫 You can reach me via email lilianabassa0510@gmail.com and [Linkedin](https://www.linkedin.com/in/liliana-bassa-79696a298/)
 
 ## My Tech Stack:
