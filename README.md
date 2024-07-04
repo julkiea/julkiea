@@ -16,4 +16,5 @@
   <img src ='https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white' alt = ‘Matplotlib’>
   <img src ='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt = ‘Anaconda’>
   <img src ='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white' alt = ‘Jupyter’>
+  <img src ='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt = ‘Django’>
 </p>
